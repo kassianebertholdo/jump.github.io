@@ -1,0 +1,78 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:transparent;
+    font-size:120%;
+    line-height: 1,2;
+}
+
+h2 {
+    font-family: "georgia", "bodoni", serif;
+    font-size: 20px;    
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+.minha-foto {
+    float: right;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    right: 0;
+
+}
+
+
+.Passagem-bibi,.Passagem-bi{
+    float: left;
+}
+blockquote,
+footer{
+    padding:20px;
+
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+main{
+    text-align: justify;
+    margin:auto;
+    width:500px;
+
+}
+
+footer{
+    background-color: #000;
+    color: #F2FFFC;
+    clear: both;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+blockquote{
+    border: 10px solid #C2CCCA;
+    width: 400px;
+    box-sizing: border-box;
+    margin: 40px 50px;
+}
+
+.titulo-home {
+    text-align: center;
+}
+
+.instagram, .facebook{
+    width: 50px;
+    height: 50px;
+    display: inline;
+    float: right;
+    margin-top: -40px;
+    padding: 10px;
+}
